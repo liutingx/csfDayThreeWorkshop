@@ -1,0 +1,10 @@
+.container {
+    margin: 2%;
+}
+
+.row {
+    margin-top: 10px;
+    border: solid 2px blue;
+    padding: 20px;
+    text-align: center;
+}
